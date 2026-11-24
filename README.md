@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.jpg" alt="Engineering × Design — Manav Talan" width="100%" />
+  <img src="./assets/banner.png" alt="Engineering × Design — Manav Talan" width="100%" />
 </div>
 
 <h1 align="center">Manav Talan</h1>
