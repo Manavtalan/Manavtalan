@@ -53,9 +53,10 @@ Full-stack development and scalable architectures.
 
 Turning personal problems into useful software products.
 
+
 ## Currently Building
 
-<a href="https://trycharter.ai">
+<a href="https://trycharter.io">
   <img src="./assets/projects/charter-ai.png" alt="Charter AI — AI-native project management for freelancers" width="100%" />
 </a>
 
@@ -65,16 +66,18 @@ Turning personal problems into useful software products.
 
 Building an **AI-native operating system for freelancers** that transforms unstructured client conversations, briefs and documents into structured, executable projects.
 
-Charter AI brings the entire freelance project lifecycle into one intelligent platform — from initial client intake to project delivery.
+Charter AI is designed to bring the entire freelance project lifecycle into one intelligent platform — from initial client intake to project delivery.
 
 ### Core Capabilities in Development
 
-- **Intelligent Client Intake** — Transform unstructured client inputs into actionable requirements.
-- **AI-Powered Scope Generation** — Generate structured and comprehensive project scopes.
-- **Contract Generation** — Turn approved project scopes into client-ready contracts.
-- **Automated Project Planning** — Break projects into actionable tasks and milestones.
-- **Custom AI Orchestration** — Context-aware AI workflows and intelligent task execution.
-- **Unified Project Workspace** — Manage clients, documents, projects and tasks in one place.
+- **Intelligent Client Intake** — Transform messy client inputs into structured project requirements.
+- **AI-Powered Scope Generation** — Generate comprehensive and actionable project scopes.
+- **Intelligent Contract Generation** — Convert approved project scopes into client-ready contracts.
+- **Automated Project Planning** — Break projects into actionable tasks, milestones and deliverables.
+- **Custom AI Orchestration** — Context-aware AI workflows, structured outputs and intelligent task execution.
+- **Contextual Memory** — Maintain relevant project and client context across AI workflows.
+- **Unified Project Workspace** — Manage clients, projects, documents and tasks in one place.
+- **Human-in-the-Loop Approval** — AI proposes, humans approve and commit important decisions.
 
 ### Building With
 
@@ -89,7 +92,9 @@ Charter AI brings the entire freelance project lifecycle into one intelligent pl
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-FBE5CF?style=for-the-badge&logo=anthropic&logoColor=BA691D)
 ![Voyage AI](https://img.shields.io/badge/Voyage_AI-E5DDF9?style=for-the-badge)
 ![pgvector](https://img.shields.io/badge/pgvector-DDF1E1?style=for-the-badge&logo=postgresql&logoColor=336791)
-![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-F8DCE8?style=for-the-badge)
+![AI Orchestration](https://img.shields.io/badge/Custom_AI_Orchestration-F8DCE8?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-F9EAB5?style=for-the-badge)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-DCEAFB?style=for-the-badge)
 
 **Backend, Database & Infrastructure**
 
@@ -99,16 +104,21 @@ Charter AI brings the entire freelance project lifecycle into one intelligent pl
 ![Resend](https://img.shields.io/badge/Resend-FBE5CF?style=for-the-badge&logo=resend&logoColor=000000)
 ![Vercel](https://img.shields.io/badge/Vercel-F7EBDD?style=for-the-badge&logo=vercel&logoColor=000000)
 
-**Validation & Testing**
+**Validation, Security & Testing**
 
 ![Zod](https://img.shields.io/badge/Zod-DCEAFB?style=for-the-badge&logo=zod&logoColor=3068B7)
 ![Vitest](https://img.shields.io/badge/Vitest-F9EAB5?style=for-the-badge&logo=vitest&logoColor=729B1B)
 ![Playwright](https://img.shields.io/badge/Playwright-DDF1E1?style=for-the-badge)
+![Row Level Security](https://img.shields.io/badge/Row_Level_Security-F8DCE8?style=for-the-badge)
+![AI Evals](https://img.shields.io/badge/AI_Evaluations-E5DDF9?style=for-the-badge)
 
 <br />
 
-<a href="https://trycharter.ai">
-  <img src="https://img.shields.io/badge/EXPLORE_CHARTER_AI-40170E?style=for-the-badge&logo=googlechrome&logoColor=F7EBDD" alt="Explore Charter AI" />
-</a>
+<p align="center">
+  <a href="https://trycharter.io">
+    <img src="https://img.shields.io/badge/EXPLORE_CHARTER_AI-40170E?style=for-the-badge&logo=googlechrome&logoColor=F7EBDD" alt="Explore Charter AI" />
+  </a>
+</p>
+
 
 
