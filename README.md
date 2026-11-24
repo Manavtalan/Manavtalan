@@ -2,9 +2,7 @@
   <img src="./assets/banner.png" alt="Engineering × Design — Manav Talan" width="100%" />
 </div>
 
-<p align="center">
-  <strong>Manav Talan</strong>
-</p>
+<h1 align="center">Manav Talan</h1>
 
 <p align="center">
   <strong>Applied AI Engineer / Web Experience Developer</strong>
@@ -30,13 +28,28 @@
 </p>
 
 
-## Hi there 👋 😊
 
-- 📫 How to reach me: your-email@example.com
-- Pronouns: he/him
-- About Me: Building AI agents & 3D web experiences @ Module Labs.
-- Currently Building: Charter AI & Docbrief.io
+## About Me
 
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
+I'm an independent developer and product builder working at the intersection of **Artificial Intelligence, Software Engineering and Creative Design.**
+
+I build AI-powered products, explore agentic systems and develop immersive web experiences. My approach is simple: identify problems, engineer solutions and turn them into meaningful products.
+
+### What I'm focused on
+
+![Applied AI Engineering](https://img.shields.io/badge/APPLIED_AI_ENGINEERING-E5DDF9?style=for-the-badge)
+
+AI agents, LLM applications and intelligent systems.
+
+![Software Engineering](https://img.shields.io/badge/SOFTWARE_ENGINEERING-DCEAFB?style=for-the-badge)
+
+Full-stack development and scalable architectures.
+
+![Creative Web Development](https://img.shields.io/badge/CREATIVE_WEB_DEVELOPMENT-F8DCE8?style=for-the-badge)
+
+3D, motion and interactive digital experiences.
+
+![Independent Product Building](https://img.shields.io/badge/INDEPENDENT_PRODUCT_BUILDING-FBE5CF?style=for-the-badge)
+
+Turning personal problems into useful software products.
+
