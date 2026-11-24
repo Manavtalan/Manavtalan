@@ -121,4 +121,93 @@ Charter AI is designed to bring the entire freelance project lifecycle into one 
 </p>
 
 
+## Technologies & Tools
+
+Technologies I work with and actively explore across AI engineering, software development and creative web experiences.
+
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Applied AI & LLMs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-DDF1E1?style=for-the-badge&logo=openai&logoColor=000000" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Claude-FBE5CF?style=for-the-badge&logo=anthropic&logoColor=BA691D" alt="Claude" />
+      <img src="https://img.shields.io/badge/Gemini-DCEAFB?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="Gemini" />
+      <img src="https://img.shields.io/badge/LangChain-E5DDF9?style=for-the-badge&logo=langchain&logoColor=6941C6" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Hugging_Face-F9EAB5?style=for-the-badge&logo=huggingface&logoColor=92700E" alt="Hugging Face" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>AI Engineering</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AI_Agents-E5DDF9?style=for-the-badge" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/RAG-DCEAFB?style=for-the-badge" alt="RAG" />
+      <img src="https://img.shields.io/badge/MCP-F8DCE8?style=for-the-badge" alt="MCP" />
+      <img src="https://img.shields.io/badge/Context_Engineering-FBE5CF?style=for-the-badge" alt="Context Engineering" />
+      <img src="https://img.shields.io/badge/AI_Evals-DDF1E1?style=for-the-badge" alt="AI Evaluations" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="React, Next.js, Tailwind CSS, Vite" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Backend & Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,redis&theme=dark" alt="FastAPI, Node.js, PostgreSQL, Supabase, Redis" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Creative Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" />
+      <img src="https://img.shields.io/badge/GSAP-DDF1E1?style=for-the-badge&logo=gsap&logoColor=21854B" alt="GSAP" />
+      <img src="https://img.shields.io/badge/WebGL-F8DCE8?style=for-the-badge&logo=webgl&logoColor=990000" alt="WebGL" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Design & Prototyping</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Figma, Blender" />
+      <img src="https://img.shields.io/badge/Framer-E5DDF9?style=for-the-badge&logo=framer&logoColor=000000" alt="Framer" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Infrastructure & DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,vercel,aws,cloudflare,githubactions&theme=dark" alt="Docker, Vercel, AWS, Cloudflare, GitHub Actions" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Development Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>AI Coding Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-FBE5CF?style=for-the-badge&logo=anthropic&logoColor=BA691D" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/OpenAI_Codex-DDF1E1?style=for-the-badge&logo=openai&logoColor=000000" alt="OpenAI Codex" />
+      <img src="https://img.shields.io/badge/Google_AI_Studio-DCEAFB?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="Google AI Studio" />
+    </td>
+  </tr>
+</table>
+
 
