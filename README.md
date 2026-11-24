@@ -1,4 +1,14 @@
-### Hi there 👋 😊
+<div align="center">
+  <img src="./assets/banner.jpg" alt="Engineering × Design — Manav Talan" width="100%" />
+</div>
+
+<h1 align="center">Manav Talan</h1>
+
+<p align="center">
+  <strong>Applied AI Engineer / Web Experience Developer</strong>
+</p>
+
+## Hi there 👋 😊
 
 - 📫 How to reach me: your-email@example.com
 - Pronouns: he/him
